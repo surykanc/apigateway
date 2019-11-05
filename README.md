@@ -16,8 +16,8 @@ note: it will provide the informtion about the keys of particular of the petstor
 
 python3 apigateway.py us-east-1 default PetStore authorization  json
 []
-note: in this example the petstore apigateway doesnot have any authorization,so it is not secure
+note: in this example the petstore apigateway doesn't have any authorization,so it is not secure
 
 Important note: i'm unable to configure the authorization with the apigateway ,i also created the key and i don't know how to add the key in gateway
 
-i dont have propere csv format ,so please let me know so that i can work on.
+i don't have correct csv format ,so please let me know so that i can work on.
